@@ -21,21 +21,21 @@ export default function Home() {
             파일을 수정하세요.
           </h1>
           <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            시작점이나 더 많은 안내가 필요하신가요?{" "}
+            Looking for a starting point or more instructions? Head over to{" "}
             <a
               href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
               className="font-medium text-zinc-950 dark:text-zinc-50"
             >
-              템플릿
+              Templates
             </a>{" "}
-            또는{" "}
+            or the{" "}
             <a
               href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
               className="font-medium text-zinc-950 dark:text-zinc-50"
             >
-              학습 센터
-            </a>
-            를 확인해보세요.
+              Learning
+            </a>{" "}
+            center.
           </p>
         </div>
         <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
@@ -52,7 +52,7 @@ export default function Home() {
               width={16}
               height={14}
             />
-            지금 배포하기
+            Deploy Now
           </a>
           <a
             className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] md:w-[158px]"
@@ -60,7 +60,7 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            문서
+            Documentation
           </a>
         </div>
       </main>
