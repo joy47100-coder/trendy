@@ -1,16 +1,10 @@
 <svg width="1024" height="1024" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-<path d="M150,150 C150,105 362,105 362,150 L362,155 L150,155 Z" fill="none" stroke="#00F0FF" stroke-width="14" stroke-opacity="0.35" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M138,235 L138,428 C138,462 374,462 374,428 L374,235 C374,205 138,205 138,235 Z" fill="none" stroke="#00F0FF" stroke-width="14" stroke-opacity="0.35" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M235,108 C235,82 277,82 277,108" fill="none" stroke="#00F0FF" stroke-width="10" stroke-opacity="0.35" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M172,150 C148,225 148,360 174,462" fill="none" stroke="#00F0FF" stroke-width="10" stroke-opacity="0.35" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M340,150 C364,225 364,360 338,462" fill="none" stroke="#00F0FF" stroke-width="10" stroke-opacity="0.35" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="188" y="278" width="136" height="112" rx="18" fill="none" stroke="#FF2D95" stroke-width="10" stroke-opacity="0.35" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="232" y="300" width="48" height="26" rx="4" fill="none" stroke="#FF2D95" stroke-width="7" stroke-opacity="0.35" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M150,150 C150,105 362,105 362,150 L362,155 L150,155 Z" fill="none" stroke="#00F0FF" stroke-width="4" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M138,235 L138,428 C138,462 374,462 374,428 L374,235 C374,205 138,205 138,235 Z" fill="none" stroke="#00F0FF" stroke-width="4" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M235,108 C235,82 277,82 277,108" fill="none" stroke="#00F0FF" stroke-width="2.5" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M172,150 C148,225 148,360 174,462" fill="none" stroke="#00F0FF" stroke-width="2.5" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M340,150 C364,225 364,360 338,462" fill="none" stroke="#00F0FF" stroke-width="2.5" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="188" y="278" width="136" height="112" rx="18" fill="none" stroke="#FF2D95" stroke-width="2.5" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="232" y="300" width="48" height="26" rx="4" fill="none" stroke="#FF2D95" stroke-width="2" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <defs><filter id="glow"><feGaussianBlur stdDeviation="2" result="coloredBlur" /><feMerge><feMergeNode in="coloredBlur" /><feMergeNode in="SourceGraphic" /></feMerge></filter></defs>
+  <path d="M 170 150 Q 200 120 260 120 Q 320 120 350 150 L 360 290 Q 360 330 340 350 L 180 350 Q 160 330 160 290 Z" stroke="#39FF14" stroke-width="4" fill="none" filter="url(#glow)" />
+  <ellipse cx="260" cy="230" rx="42" ry="48" stroke="#FF10F0" stroke-width="3" fill="none" filter="url(#glow)" />
+  <path d="M 240 210 L 280 210" stroke="#00FFFF" stroke-width="2" filter="url(#glow)" />
+  <path d="M 240 250 L 280 250" stroke="#00FFFF" stroke-width="2" filter="url(#glow)" />
+  <path d="M 210 120 Q 190 60 200 30" stroke="#39FF14" stroke-width="3" fill="none" filter="url(#glow)" />
+  <path d="M 310 120 Q 330 60 320 30" stroke="#39FF14" stroke-width="3" fill="none" filter="url(#glow)" />
+  <path d="M 245 110 Q 260 95 275 110" stroke="#FF10F0" stroke-width="3" fill="none" filter="url(#glow)" />
 </svg>

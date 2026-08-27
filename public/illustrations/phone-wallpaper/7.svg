@@ -1,14 +1,10 @@
-<svg width="1024" height="1024" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-<rect x="80" y="30" width="352" height="452" rx="48" fill="none" stroke="#00F0FF" stroke-width="14" stroke-opacity="0.35" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="216" y="50" width="80" height="22" rx="11" fill="none" stroke="#00F0FF" stroke-width="8" stroke-opacity="0.35" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M110,300 C160,270 200,330 250,300 C300,270 340,330 390,300 M110,350 C160,320 200,380 250,350 C300,320 340,380 390,350 M110,400 C160,370 200,430 250,400 C300,370 340,430 390,400" fill="none" stroke="#FF2D95" stroke-width="8" stroke-opacity="0.35" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M145,140 L175,140 M145,140 L145,175 M175,140 L175,175 M145,175 L175,175 M175,175 L175,210 M145,210 L175,210 M215,140 L215,175 M245,140 L245,210 M215,175 L245,175 M285,140 L285,210 M278,148 L285,140" fill="none" stroke="#00F0FF" stroke-width="10" stroke-opacity="0.35" stroke-linecap="round" stroke-linejoin="round"/>
-<circle cx="197" cy="155" r="4" fill="none" stroke="#00F0FF" stroke-width="8" stroke-opacity="0.35"/>
-<circle cx="197" cy="195" r="4" fill="none" stroke="#00F0FF" stroke-width="8" stroke-opacity="0.35"/>
-<rect x="80" y="30" width="352" height="452" rx="48" fill="none" stroke="#00F0FF" stroke-width="4" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="216" y="50" width="80" height="22" rx="11" fill="none" stroke="#00F0FF" stroke-width="2.5" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M110,300 C160,270 200,330 250,300 C300,270 340,330 390,300 M110,350 C160,320 200,380 250,350 C300,320 340,380 390,350 M110,400 C160,370 200,430 250,400 C300,370 340,430 390,400" fill="none" stroke="#FF2D95" stroke-width="2.5" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M145,140 L175,140 M145,140 L145,175 M175,140 L175,175 M145,175 L175,175 M175,175 L175,210 M145,210 L175,210 M215,140 L215,175 M245,140 L245,210 M215,175 L245,175 M285,140 L285,210 M278,148 L285,140" fill="none" stroke="#00F0FF" stroke-width="3" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
-<circle cx="197" cy="155" r="4" fill="none" stroke="#00F0FF" stroke-width="2.5" stroke-opacity="1"/>
-<circle cx="197" cy="195" r="4" fill="none" stroke="#00F0FF" stroke-width="2.5" stroke-opacity="1"/>
+<svg width="1024" height="2048" viewBox="0 0 512 1024" xmlns="http://www.w3.org/2000/svg">
+  <defs><filter id="glow"><feGaussianBlur stdDeviation="3" result="coloredBlur"/><feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+  <path d="M 100 200 L 412 300" stroke="#FF00FF" stroke-width="4" fill="none" filter="url(#glow)"/>
+  <path d="M 200 100 L 300 500" stroke="#00FFFF" stroke-width="4" fill="none" filter="url(#glow)"/>
+  <path d="M 50 500 Q 256 300 462 500" stroke="#ADFF2F" stroke-width="4" fill="none" filter="url(#glow)"/>
+  <circle cx="256" cy="400" r="60" stroke="#FF00FF" stroke-width="3" fill="none" filter="url(#glow)"/>
+  <circle cx="256" cy="400" r="45" stroke="#00FFFF" stroke-width="2" fill="none" filter="url(#glow)"/>
+  <path d="M 100 700 L 412 800" stroke="#ADFF2F" stroke-width="3" fill="none" filter="url(#glow)"/>
+  <path d="M 150 850 L 362 950" stroke="#FF00FF" stroke-width="3" fill="none" filter="url(#glow)"/>
 </svg>

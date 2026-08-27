@@ -1,27 +1,10 @@
-<svg width="1024" height="1024" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-<g fill="#FFFFFF" stroke="#FFFFFF" stroke-width="26" stroke-linejoin="round" stroke-linecap="round">
-<rect x="80" y="30" width="352" height="452" rx="55"/>
-</g>
-<rect x="80" y="30" width="352" height="452" rx="55" fill="#F2E3C4" stroke="#3B2314" stroke-width="7"/>
-<rect x="104" y="66" width="304" height="380" rx="30" fill="#2C7A73" stroke="#3B2314" stroke-width="7"/>
-<circle cx="256" cy="50" r="8" fill="#3B2314"/>
-<g fill="#E8A61C" stroke="#3B2314" stroke-width="6">
-<circle cx="140" cy="300" r="14"/>
-<circle cx="370" cy="300" r="16"/>
-<circle cx="150" cy="400" r="12"/>
-<circle cx="360" cy="400" r="14"/>
-<circle cx="256" cy="412" r="12"/>
-</g>
-<circle cx="256" cy="190" r="76" fill="#F2E3C4" stroke="#3B2314" stroke-width="7"/>
-<g stroke="#3B2314" stroke-width="6" stroke-linecap="round">
-<path d="M256,118 L256,132"/>
-<path d="M328,190 L314,190"/>
-<path d="M256,262 L256,248"/>
-<path d="M184,190 L198,190"/>
-</g>
-<g stroke="#3B2314" stroke-linecap="round">
-<path d="M256,190 L216,152" stroke-width="8"/>
-<path d="M256,190 L302,146" stroke-width="6"/>
-</g>
-<circle cx="256" cy="190" r="9" fill="#3B2314"/>
+<svg width="1024" height="2048" viewBox="0 0 512 1024" xmlns="http://www.w3.org/2000/svg">
+  <defs><filter id="shadow" x="-50%" y="-50%" width="200%" height="200%"><feDropShadow dx="2" dy="2" stdDeviation="2" flood-opacity="0.4"/></filter></defs>
+  <circle cx="256" cy="400" r="140" fill="#D4C156" stroke="#3D3D2D" stroke-width="8" filter="url(#shadow)"/>
+  <circle cx="256" cy="400" r="135" fill="#E8D96D"/>
+  <g transform="translate(256, 400)"><polygon points="0,-90 20,-30 80,-30 40,20 60,80 0,40 -60,80 -40,20 -80,-30 -20,-30" fill="#A67C52" stroke="#3D3D2D" stroke-width="4"/></g>
+  <circle cx="150" cy="250" r="35" fill="#C97A3A" stroke="#3D3D2D" stroke-width="5" filter="url(#shadow)"/>
+  <circle cx="370" cy="580" r="40" fill="#8B7355" stroke="#3D3D2D" stroke-width="5" filter="url(#shadow)"/>
+  <line x1="80" y1="700" x2="432" y2="700" stroke="#3D3D2D" stroke-width="4"/>
+  <line x1="100" y1="750" x2="412" y2="750" stroke="#8B7355" stroke-width="3"/>
 </svg>
