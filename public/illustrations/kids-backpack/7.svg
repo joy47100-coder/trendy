@@ -1,10 +1,7 @@
 <svg width="1024" height="1024" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-  <defs><filter id="glow"><feGaussianBlur stdDeviation="2" result="coloredBlur" /><feMerge><feMergeNode in="coloredBlur" /><feMergeNode in="SourceGraphic" /></feMerge></filter></defs>
-  <path d="M 170 150 Q 200 120 260 120 Q 320 120 350 150 L 360 290 Q 360 330 340 350 L 180 350 Q 160 330 160 290 Z" stroke="#39FF14" stroke-width="4" fill="none" filter="url(#glow)" />
-  <ellipse cx="260" cy="230" rx="42" ry="48" stroke="#FF10F0" stroke-width="3" fill="none" filter="url(#glow)" />
-  <path d="M 240 210 L 280 210" stroke="#00FFFF" stroke-width="2" filter="url(#glow)" />
-  <path d="M 240 250 L 280 250" stroke="#00FFFF" stroke-width="2" filter="url(#glow)" />
-  <path d="M 210 120 Q 190 60 200 30" stroke="#39FF14" stroke-width="3" fill="none" filter="url(#glow)" />
-  <path d="M 310 120 Q 330 60 320 30" stroke="#39FF14" stroke-width="3" fill="none" filter="url(#glow)" />
-  <path d="M 245 110 Q 260 95 275 110" stroke="#FF10F0" stroke-width="3" fill="none" filter="url(#glow)" />
+  <rect x="180" y="160" width="144" height="140" rx="20" fill="#1a1a1a" stroke="#39FF14" stroke-width="3"/>
+  <circle cx="220" cy="140" r="8" fill="#333"/>
+  <circle cx="292" cy="140" r="8" fill="#333"/>
+  <rect x="220" y="280" width="72" height="50" rx="8" fill="#FF10F0"/>
+  <path d="M 210 140 L 200 60 M 302 140 L 312 60" stroke="#333" stroke-width="6" stroke-linecap="round"/>
 </svg>

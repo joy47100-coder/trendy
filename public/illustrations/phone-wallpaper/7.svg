@@ -1,10 +1,8 @@
-<svg width="1024" height="2048" viewBox="0 0 512 1024" xmlns="http://www.w3.org/2000/svg">
-  <defs><filter id="glow"><feGaussianBlur stdDeviation="3" result="coloredBlur"/><feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
-  <path d="M 100 200 L 412 300" stroke="#FF00FF" stroke-width="4" fill="none" filter="url(#glow)"/>
-  <path d="M 200 100 L 300 500" stroke="#00FFFF" stroke-width="4" fill="none" filter="url(#glow)"/>
-  <path d="M 50 500 Q 256 300 462 500" stroke="#ADFF2F" stroke-width="4" fill="none" filter="url(#glow)"/>
-  <circle cx="256" cy="400" r="60" stroke="#FF00FF" stroke-width="3" fill="none" filter="url(#glow)"/>
-  <circle cx="256" cy="400" r="45" stroke="#00FFFF" stroke-width="2" fill="none" filter="url(#glow)"/>
-  <path d="M 100 700 L 412 800" stroke="#ADFF2F" stroke-width="3" fill="none" filter="url(#glow)"/>
-  <path d="M 150 850 L 362 950" stroke="#FF00FF" stroke-width="3" fill="none" filter="url(#glow)"/>
+<svg width="1024" height="1024" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <rect x="120" y="50" width="272" height="520" rx="40" fill="#333"/>
+  <rect x="130" y="65" width="252" height="480" rx="35" fill="#000"/>
+  <rect x="225" y="50" width="62" height="30" rx="15" fill="#222"/>
+  <circle cx="370" cy="75" r="6" fill="#555"/>
+  <circle cx="256" cy="470" r="15" fill="#555"/>
+  <g opacity="0.7"><path d="M 180 200 L 332 280" stroke="#FF00FF" stroke-width="3" fill="none"/></g>
 </svg>

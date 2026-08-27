@@ -1,0 +1,40 @@
+<svg width="1024" height="1024" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- 아이폰 테두리 -->
+  <rect x="106" y="30" width="300" height="452" rx="40" fill="#999999" />
+  <!-- 아이폰 화면 -->
+  <rect x="120" y="50" width="272" height="412" rx="35" fill="#000000" />
+  <!-- 노치 -->
+  <rect x="206" y="50" width="100" height="28" rx="14" fill="#ffffff" />
+  <!-- 홈버튼 -->
+  <circle cx="256" cy="450" r="18" fill="none" stroke="#ffffff" stroke-width="2" />
+
+  <!-- 배경화면: 레트로 스티커 70년대 배지 -->
+  <defs>
+    <clipPath id="screenClip">
+      <rect x="120" y="50" width="272" height="412" rx="35" />
+    </clipPath>
+  </defs>
+  <g clip-path="url(#screenClip)">
+    <rect x="120" y="50" width="272" height="412" fill="#FFF8DC" />
+
+    <!-- 70년대 원형 배지들 -->
+    <circle cx="180" cy="140" r="32" fill="#E74C3C" />
+    <circle cx="180" cy="140" r="28" fill="#C0392B" />
+    <text x="180" y="148" text-anchor="middle" fill="#FFF8DC" font-size="14" font-weight="bold">★</text>
+
+    <circle cx="300" cy="190" r="32" fill="#F39C12" />
+    <circle cx="300" cy="190" r="28" fill="#D68910" />
+    <text x="300" y="198" text-anchor="middle" fill="#FFF8DC" font-size="14">✓</text>
+
+    <circle cx="200" cy="300" r="32" fill="#8E44AD" />
+    <circle cx="200" cy="300" r="28" fill="#6C3483" />
+    <circle cx="200" cy="300" r="24" fill="#8E44AD" />
+
+    <circle cx="280" cy="340" r="32" fill="#27AE60" />
+    <circle cx="280" cy="340" r="28" fill="#1E8449" />
+    <text x="280" y="348" text-anchor="middle" fill="#FFF8DC" font-size="14">♫</text>
+
+    <circle cx="240" cy="410" r="28" fill="#3498DB" />
+    <circle cx="240" cy="410" r="24" fill="#2980B9" />
+  </g>
+</svg>

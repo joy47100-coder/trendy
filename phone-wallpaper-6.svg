@@ -1,0 +1,55 @@
+<svg width="1024" height="1024" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- 아이폰 테두리 -->
+  <rect x="106" y="30" width="300" height="452" rx="40" fill="#999999" />
+  <!-- 아이폰 화면 -->
+  <rect x="120" y="50" width="272" height="412" rx="35" fill="#000000" />
+  <!-- 노치 -->
+  <rect x="206" y="50" width="100" height="28" rx="14" fill="#ffffff" />
+  <!-- 홈버튼 -->
+  <circle cx="256" cy="450" r="18" fill="none" stroke="#ffffff" stroke-width="2" />
+
+  <!-- 배경화면: 픽셀아트 8bit 격자 패턴 -->
+  <defs>
+    <clipPath id="screenClip">
+      <rect x="120" y="50" width="272" height="412" rx="35" />
+    </clipPath>
+  </defs>
+  <g clip-path="url(#screenClip)">
+    <rect x="120" y="50" width="272" height="412" fill="#1A1A2E" />
+
+    <!-- 8비트 격자 패턴 (픽셀 블록들) -->
+    <!-- 상단 패턴 -->
+    <rect x="140" y="70" width="12" height="12" fill="#FF006E" />
+    <rect x="156" y="70" width="12" height="12" fill="#FF006E" />
+    <rect x="172" y="70" width="12" height="12" fill="#FFBE0B" />
+    <rect x="188" y="70" width="12" height="12" fill="#FB5607" />
+    <rect x="204" y="70" width="12" height="12" fill="#FB5607" />
+    <rect x="220" y="70" width="12" height="12" fill="#FFBE0B" />
+    <rect x="236" y="70" width="12" height="12" fill="#FF006E" />
+    <rect x="252" y="70" width="12" height="12" fill="#FF006E" />
+
+    <!-- 중간 패턴 -->
+    <rect x="150" y="140" width="12" height="12" fill="#8338EC" />
+    <rect x="166" y="140" width="12" height="12" fill="#3A86FF" />
+    <rect x="182" y="140" width="12" height="12" fill="#06FFA5" />
+    <rect x="198" y="140" width="12" height="12" fill="#06FFA5" />
+    <rect x="214" y="140" width="12" height="12" fill="#3A86FF" />
+    <rect x="230" y="140" width="12" height="12" fill="#8338EC" />
+
+    <!-- 하단 패턴 -->
+    <rect x="145" y="220" width="12" height="12" fill="#FF006E" />
+    <rect x="161" y="220" width="12" height="12" fill="#FB5607" />
+    <rect x="177" y="220" width="12" height="12" fill="#FFBE0B" />
+    <rect x="193" y="220" width="12" height="12" fill="#06FFA5" />
+    <rect x="209" y="220" width="12" height="12" fill="#3A86FF" />
+    <rect x="225" y="220" width="12" height="12" fill="#8338EC" />
+    <rect x="241" y="220" width="12" height="12" fill="#FF006E" />
+
+    <!-- 추가 패턴 -->
+    <rect x="155" y="300" width="12" height="12" fill="#3A86FF" />
+    <rect x="171" y="300" width="12" height="12" fill="#06FFA5" />
+    <rect x="187" y="300" width="12" height="12" fill="#06FFA5" />
+    <rect x="203" y="300" width="12" height="12" fill="#3A86FF" />
+    <rect x="219" y="300" width="12" height="12" fill="#8338EC" />
+  </g>
+</svg>

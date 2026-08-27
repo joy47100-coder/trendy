@@ -1,12 +1,8 @@
-<svg width="1024" height="2048" viewBox="0 0 512 1024" xmlns="http://www.w3.org/2000/svg">
-  <path d="M 100 200 L 120 210 L 140 200 L 160 215 L 180 205 L 200 218 L 220 208 L 240 220 L 260 210 L 280 225 L 300 212 L 320 228 L 340 215 L 360 230 L 380 218 L 400 232 L 412 220 L 412 350 L 100 350 Z" fill="#F5DEB3" opacity="0.9"/>
-  <polygon points="150,280 180,240 210,280 180,320" fill="#E74C3C"/>
-  <circle cx="340" cy="270" r="35" fill="#3498DB"/>
-  <path d="M 120 400 L 140 410 L 160 405 L 180 420 L 200 410 L 220 425 L 240 415 L 260 430 L 280 420 L 300 435 L 320 422 L 340 438 L 360 425 L 380 440 L 400 430 L 412 445 L 412 580 L 120 580 Z" fill="#E8D5B7" opacity="0.85"/>
-  <circle cx="200" cy="500" r="40" fill="#2ECC71"/>
-  <polygon points="300,480 320,450 340,480 330,510 310,510" fill="#F39C12"/>
-  <path d="M 100 600 L 130 615 L 160 605 L 190 625 L 220 610 L 250 630 L 280 615 L 310 635 L 340 620 L 370 640 L 400 625 L 412 645 L 412 850 L 100 850 Z" fill="#F0E6D2" opacity="0.8"/>
-  <rect x="150" y="700" width="50" height="60" fill="#9B59B6" transform="rotate(-15 175 730)"/>
-  <circle cx="320" cy="770" r="30" fill="#E67E22"/>
-  <line x1="120" y1="625" x2="380" y2="635" stroke="#BDC3C7" stroke-width="2" opacity="0.6"/>
+<svg width="1024" height="1024" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <rect x="120" y="50" width="272" height="520" rx="40" fill="#333"/>
+  <rect x="130" y="65" width="252" height="480" rx="35" fill="#000"/>
+  <rect x="225" y="50" width="62" height="30" rx="15" fill="#222"/>
+  <circle cx="370" cy="75" r="6" fill="#555"/>
+  <circle cx="256" cy="470" r="15" fill="#555"/>
+  <g opacity="0.7"><ellipse cx="256" cy="240" rx="50" ry="60" fill="#FF69B4"/></g>
 </svg>

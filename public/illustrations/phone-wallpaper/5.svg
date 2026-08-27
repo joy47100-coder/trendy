@@ -1,10 +1,10 @@
-<svg width="1024" height="2048" viewBox="0 0 512 1024" xmlns="http://www.w3.org/2000/svg">
-  <defs><filter id="shadow" x="-50%" y="-50%" width="200%" height="200%"><feDropShadow dx="2" dy="2" stdDeviation="2" flood-opacity="0.4"/></filter></defs>
-  <circle cx="256" cy="400" r="140" fill="#D4C156" stroke="#3D3D2D" stroke-width="8" filter="url(#shadow)"/>
-  <circle cx="256" cy="400" r="135" fill="#E8D96D"/>
-  <g transform="translate(256, 400)"><polygon points="0,-90 20,-30 80,-30 40,20 60,80 0,40 -60,80 -40,20 -80,-30 -20,-30" fill="#A67C52" stroke="#3D3D2D" stroke-width="4"/></g>
-  <circle cx="150" cy="250" r="35" fill="#C97A3A" stroke="#3D3D2D" stroke-width="5" filter="url(#shadow)"/>
-  <circle cx="370" cy="580" r="40" fill="#8B7355" stroke="#3D3D2D" stroke-width="5" filter="url(#shadow)"/>
-  <line x1="80" y1="700" x2="432" y2="700" stroke="#3D3D2D" stroke-width="4"/>
-  <line x1="100" y1="750" x2="412" y2="750" stroke="#8B7355" stroke-width="3"/>
+<svg width="1024" height="1024" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <rect x="120" y="50" width="272" height="520" rx="40" fill="#333"/>
+  <rect x="130" y="65" width="252" height="480" rx="35" fill="#000"/>
+  <rect x="225" y="50" width="62" height="30" rx="15" fill="#222"/>
+  <circle cx="370" cy="75" r="6" fill="#555"/>
+  <circle cx="256" cy="470" r="15" fill="#555"/>
+  <g opacity="0.7"><circle cx="200" cy="200" r="40" fill="#D4C156"/><circle cx="312" cy="200" r="40" fill="#C97A3A"/>
+<rect x="200" y="180" width="20" height="20" fill="#E74C3C"/><rect x="240" y="180" width="20" height="20" fill="#3498DB"/>
+<path d="M 180 200 L 332 280" stroke="#FF00FF" stroke-width="3" fill="none"/></g>
 </svg>

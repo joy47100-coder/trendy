@@ -1,8 +1,9 @@
 <svg width="1024" height="1024" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-  <defs><filter id="watercolor"><feTurbulence type="fractalNoise" baseFrequency="0.05" numOctaves="3" result="noise" /><feDisplacementMap in="SourceGraphic" in2="noise" scale="2" /></filter></defs>
-  <path d="M 180 140 Q 200 120 260 120 Q 320 120 340 140 L 350 280 Q 350 320 330 350 L 190 350 Q 170 320 170 280 Z" fill="#B8A89F" opacity="0.8" filter="url(#watercolor)" />
-  <ellipse cx="260" cy="220" rx="45" ry="50" fill="#9B8B7F" opacity="0.7" filter="url(#watercolor)" />
-  <path d="M 210 140 Q 190 80 200 40" stroke="#A09080" stroke-width="12" fill="none" opacity="0.75" filter="url(#watercolor)" />
-  <path d="M 310 140 Q 330 80 320 40" stroke="#A09080" stroke-width="12" fill="none" opacity="0.75" filter="url(#watercolor)" />
-  <path d="M 240 120 Q 260 100 280 120" stroke="#9B8B7F" stroke-width="8" fill="none" opacity="0.8" filter="url(#watercolor)" />
+  <ellipse cx="256" cy="280" rx="100" ry="120" fill="#B8A89F" opacity="0.8"/>
+  <ellipse cx="220" cy="240" rx="35" ry="50" fill="#9B8B7F" opacity="0.7"/>
+  <ellipse cx="292" cy="240" rx="35" ry="50" fill="#9B8B7F" opacity="0.7"/>
+  <ellipse cx="256" cy="320" rx="90" ry="60" fill="#A09080" opacity="0.7"/>
+  <path d="M 210 200 L 200 80 M 302 200 L 312 80" stroke="#A09080" stroke-width="8" stroke-linecap="round"/>
+  <ellipse cx="256" cy="260" rx="60" ry="55" fill="#9B8B7F" opacity="0.6"/>
+  <path d="M 240 260 Q 256 250 272 260" stroke="#8B7B6F" stroke-width="2" fill="none"/>
 </svg>
