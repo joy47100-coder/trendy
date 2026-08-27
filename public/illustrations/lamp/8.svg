@@ -1,0 +1,10 @@
+<svg width="1024" height="1024" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+<rect x="110" y="70" width="240" height="140" rx="14" fill="#E8B4A0" fill-opacity="0.55" transform="rotate(-6 230 140)"/>
+<rect x="140" y="330" width="230" height="140" rx="14" fill="#C9A876" fill-opacity="0.55" transform="rotate(4 255 400)"/>
+<path d="M225,100 L210,112 L222,124 L204,140 L216,155 L198,170 L170,185 L165,200 L200,195 L230,203 L256,196 L282,203 L312,195 L347,200 L342,185 L314,170 L326,155 L308,140 L320,124 L302,112 L287,100 L270,108 L256,98 L242,108 Z" fill="#E0A040"/>
+<ellipse cx="256" cy="188" rx="68" ry="10" fill="#E8B4A0"/>
+<path d="M248,192 L242,210 L250,230 L244,250 L252,270 L246,290 L254,310 L248,330 L256,350 L250,370 L258,382 L266,370 L260,350 L268,330 L262,310 L270,290 L264,270 L272,250 L266,230 L274,210 L268,192 Z" fill="#8C5A38"/>
+<path d="M180,385 L165,398 L178,412 L200,418 L230,410 L256,417 L282,410 L312,418 L334,412 L347,398 L332,385 L307,392 L282,384 L256,392 L230,384 L205,392 Z" fill="#8C5A38"/>
+<path d="M175,175 L185,150 L172,128 L192,108" fill="none" stroke="#5C3A22" stroke-width="2.5" stroke-dasharray="6 5"/>
+<path d="M337,175 L327,150 L340,128 L320,108" fill="none" stroke="#5C3A22" stroke-width="2.5" stroke-dasharray="6 5"/>
+</svg>

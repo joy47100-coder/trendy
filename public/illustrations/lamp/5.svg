@@ -1,0 +1,16 @@
+<svg width="1024" height="1024" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+<g fill="#FFFFFF" stroke="#FFFFFF" stroke-width="26" stroke-linejoin="round" stroke-linecap="round">
+<path d="M100,220 L412,220 L326,60 L186,60 Z"/>
+<path d="M246,210 L266,210 L266,480 L246,480 Z"/>
+<path d="M256,442 C330,442 386,452 386,468 C386,484 330,496 256,496 C182,496 126,484 126,468 C126,452 182,442 256,442 Z"/>
+</g>
+<path d="M100,220 L412,220 L326,60 L186,60 Z" fill="#E8A61C" stroke="#3B2314" stroke-width="7" stroke-linejoin="round"/>
+<path d="M116,190 L396,190 L412,220 L100,220 Z" fill="#C4462A" stroke="#3B2314" stroke-width="7" stroke-linejoin="round"/>
+<path d="M246,210 L266,210 L266,480 L246,480 Z" fill="#3B2314" stroke="#3B2314" stroke-width="7" stroke-linejoin="round"/>
+<path d="M256,442 C330,442 386,452 386,468 C386,484 330,496 256,496 C182,496 126,484 126,468 C126,452 182,442 256,442 Z" fill="#F2E3C4" stroke="#3B2314" stroke-width="7" stroke-linejoin="round"/>
+<g stroke="#F2E3C4" stroke-width="6" stroke-linecap="round">
+<path d="M226,40 L216,15"/>
+<path d="M256,35 L256,8"/>
+<path d="M286,40 L296,15"/>
+</g>
+</svg>

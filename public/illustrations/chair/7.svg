@@ -1,0 +1,20 @@
+<svg width="1024" height="1024" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+<path d="M175,472 C170,320 172,160 185,95 C200,58 212,50 255,48 C298,50 310,58 325,95 C338,160 340,320 335,472" fill="none" stroke="#00F0FF" stroke-width="14" stroke-opacity="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M148,275 L362,275 L380,310 L130,310 Z" fill="none" stroke="#00F0FF" stroke-width="14" stroke-opacity="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M156,310 L142,474" fill="none" stroke="#00F0FF" stroke-width="14" stroke-opacity="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M354,310 L368,474" fill="none" stroke="#00F0FF" stroke-width="14" stroke-opacity="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M205,120 C255,112 260,112 306,120" fill="none" stroke="#00F0FF" stroke-width="10" stroke-opacity="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M203,172 C255,163 260,163 308,172" fill="none" stroke="#00F0FF" stroke-width="10" stroke-opacity="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M210,224 C255,216 260,216 301,224" fill="none" stroke="#00F0FF" stroke-width="10" stroke-opacity="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="153" cy="310" r="7" fill="none" stroke="#FF2D95" stroke-width="8" stroke-opacity="0.35"/>
+<circle cx="360" cy="310" r="7" fill="none" stroke="#FF2D95" stroke-width="8" stroke-opacity="0.35"/>
+<path d="M175,472 C170,320 172,160 185,95 C200,58 212,50 255,48 C298,50 310,58 325,95 C338,160 340,320 335,472" fill="none" stroke="#00F0FF" stroke-width="4" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M148,275 L362,275 L380,310 L130,310 Z" fill="none" stroke="#00F0FF" stroke-width="4" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M156,310 L142,474" fill="none" stroke="#00F0FF" stroke-width="4" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M354,310 L368,474" fill="none" stroke="#00F0FF" stroke-width="4" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M205,120 C255,112 260,112 306,120" fill="none" stroke="#00F0FF" stroke-width="2.5" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M203,172 C255,163 260,163 308,172" fill="none" stroke="#00F0FF" stroke-width="2.5" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M210,224 C255,216 260,216 301,224" fill="none" stroke="#00F0FF" stroke-width="2.5" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="153" cy="310" r="7" fill="none" stroke="#FF2D95" stroke-width="2.5" stroke-opacity="1"/>
+<circle cx="360" cy="310" r="7" fill="none" stroke="#FF2D95" stroke-width="2.5" stroke-opacity="1"/>
+</svg>

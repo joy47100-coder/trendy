@@ -1,0 +1,16 @@
+<svg width="1024" height="1024" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+<path d="M150,150 C150,105 362,105 362,150 L362,155 L150,155 Z" fill="none" stroke="#00F0FF" stroke-width="14" stroke-opacity="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M138,235 L138,428 C138,462 374,462 374,428 L374,235 C374,205 138,205 138,235 Z" fill="none" stroke="#00F0FF" stroke-width="14" stroke-opacity="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M235,108 C235,82 277,82 277,108" fill="none" stroke="#00F0FF" stroke-width="10" stroke-opacity="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M172,150 C148,225 148,360 174,462" fill="none" stroke="#00F0FF" stroke-width="10" stroke-opacity="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M340,150 C364,225 364,360 338,462" fill="none" stroke="#00F0FF" stroke-width="10" stroke-opacity="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="188" y="278" width="136" height="112" rx="18" fill="none" stroke="#FF2D95" stroke-width="10" stroke-opacity="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="232" y="300" width="48" height="26" rx="4" fill="none" stroke="#FF2D95" stroke-width="7" stroke-opacity="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M150,150 C150,105 362,105 362,150 L362,155 L150,155 Z" fill="none" stroke="#00F0FF" stroke-width="4" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M138,235 L138,428 C138,462 374,462 374,428 L374,235 C374,205 138,205 138,235 Z" fill="none" stroke="#00F0FF" stroke-width="4" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M235,108 C235,82 277,82 277,108" fill="none" stroke="#00F0FF" stroke-width="2.5" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M172,150 C148,225 148,360 174,462" fill="none" stroke="#00F0FF" stroke-width="2.5" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M340,150 C364,225 364,360 338,462" fill="none" stroke="#00F0FF" stroke-width="2.5" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="188" y="278" width="136" height="112" rx="18" fill="none" stroke="#FF2D95" stroke-width="2.5" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="232" y="300" width="48" height="26" rx="4" fill="none" stroke="#FF2D95" stroke-width="2" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

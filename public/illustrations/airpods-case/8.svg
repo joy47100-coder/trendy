@@ -1,0 +1,9 @@
+<svg width="1024" height="1024" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+<rect x="110" y="80" width="240" height="150" rx="14" fill="#E8B4A0" fill-opacity="0.6" transform="rotate(-6 230 155)"/>
+<rect x="150" y="290" width="230" height="160" rx="14" fill="#C9A876" fill-opacity="0.55" transform="rotate(4 265 370)"/>
+<path d="M256,118 L225,122 L235,135 L205,140 L195,160 L180,175 L188,195 L176,215 L184,235 L174,255 L182,275 L172,295 L180,315 L172,335 L182,355 L178,375 L195,392 L215,398 L235,388 L256,396 L277,388 L297,398 L317,392 L334,375 L330,355 L340,335 L332,315 L340,295 L330,275 L338,255 L328,235 L336,215 L324,195 L332,175 L317,160 L307,140 L277,135 L287,122 Z" fill="#F2E4C8"/>
+<circle cx="256" cy="235" r="7" fill="#4A7A6C"/>
+<path d="M182,206 L192,206 L204,206 L216,206 L228,206 L240,206 L252,206 L264,206 L276,206 L288,206 L300,206 L312,206 L324,206" fill="none" stroke="#5C3A22" stroke-width="3" stroke-dasharray="7 6"/>
+<path d="M198,170 L192,260 L200,340" fill="none" stroke="#5C3A22" stroke-width="2" stroke-dasharray="5 5"/>
+<path d="M314,170 L320,260 L312,340" fill="none" stroke="#5C3A22" stroke-width="2" stroke-dasharray="5 5"/>
+</svg>

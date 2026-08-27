@@ -1,0 +1,16 @@
+<svg width="1024" height="1024" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+<g fill="#FFFFFF" stroke="#FFFFFF" stroke-width="26" stroke-linejoin="round" stroke-linecap="round">
+<path d="M60,260 C60,120 140,20 256,20 C372,20 452,120 452,260 L452,320 Q452,380 392,380 L120,380 Q60,380 60,320 Z"/>
+<path d="M150,350 L362,350 L362,450 Q362,490 322,490 L190,490 Q150,490 150,450 Z"/>
+</g>
+<path d="M60,260 C60,120 140,20 256,20 C372,20 452,120 452,260 L452,320 Q452,380 392,380 L120,380 Q60,380 60,320 Z" fill="#2C7A73" stroke="#3B2314" stroke-width="7" stroke-linejoin="round"/>
+<path d="M150,350 L362,350 L362,450 Q362,490 322,490 L190,490 Q150,490 150,450 Z" fill="#F2E3C4" stroke="#3B2314" stroke-width="7" stroke-linejoin="round"/>
+<g fill="#E8A61C" stroke="#3B2314" stroke-width="6">
+<circle cx="150" cy="120" r="22"/>
+<circle cx="320" cy="90" r="18"/>
+<circle cx="256" cy="190" r="26"/>
+<circle cx="140" cy="260" r="18"/>
+<circle cx="350" cy="240" r="22"/>
+</g>
+<path d="M150,350 Q256,368 362,350" fill="none" stroke="#3B2314" stroke-width="6" stroke-linecap="round"/>
+</svg>

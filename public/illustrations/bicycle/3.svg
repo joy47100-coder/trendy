@@ -1,0 +1,29 @@
+<svg width="1024" height="1024" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" fill="#1E2A4A" d="M8 350 a118 118 0 1 0 236 0 a118 118 0 1 0 -236 0 Z M30 350 a96 96 0 1 0 192 0 a96 96 0 1 0 -192 0 Z"/>
+<path fill-rule="evenodd" fill="#1E2A4A" d="M268 350 a118 118 0 1 0 236 0 a118 118 0 1 0 -236 0 Z M290 350 a96 96 0 1 0 192 0 a96 96 0 1 0 -192 0 Z"/>
+<rect x="121" y="256" width="10" height="188" fill="#1E2A4A"/>
+<rect x="121" y="256" width="10" height="188" fill="#1E2A4A" transform="rotate(60 126 350)"/>
+<rect x="121" y="256" width="10" height="188" fill="#1E2A4A" transform="rotate(120 126 350)"/>
+<rect x="381" y="256" width="10" height="188" fill="#1E2A4A"/>
+<rect x="381" y="256" width="10" height="188" fill="#1E2A4A" transform="rotate(60 386 350)"/>
+<rect x="381" y="256" width="10" height="188" fill="#1E2A4A" transform="rotate(120 386 350)"/>
+<polygon points="126,360 256,388 254,402 124,374" fill="#13A8A0"/>
+<circle cx="126" cy="350" r="30" fill="#13A8A0"/>
+<circle cx="256" cy="378" r="38" fill="#13A8A0"/>
+<polygon points="124,340 258,366 254,390 122,362" fill="#F04E45"/>
+<polygon points="116,344 200,178 222,190 138,356" fill="#F04E45"/>
+<polygon points="194,184 216,178 268,374 246,382" fill="#F04E45"/>
+<polygon points="204,174 348,193 344,217 202,198" fill="#F04E45"/>
+<polygon points="334,196 358,208 268,386 246,374" fill="#F04E45"/>
+<polygon points="334,200 358,196 400,346 376,354" fill="#F04E45"/>
+<polygon points="248,370 268,364 286,420 264,428" fill="#1E2A4A"/>
+<polygon points="252,410 300,406 302,428 254,432" fill="#1E2A4A"/>
+<rect x="336" y="148" width="24" height="70" fill="#1E2A4A"/>
+<polygon points="352,142 434,142 434,166 352,166" fill="#1E2A4A"/>
+<polygon points="412,158 436,158 436,206 412,206" fill="#1E2A4A"/>
+<polygon points="156,158 228,152 234,176 192,190 158,180" fill="#1E2A4A"/>
+<rect x="194" y="172" width="24" height="30" fill="#1E2A4A"/>
+<circle cx="126" cy="350" r="18" fill="#FFC53D"/>
+<circle cx="386" cy="350" r="22" fill="#FFC53D"/>
+<circle cx="256" cy="378" r="15" fill="#FFC53D"/>
+</svg>

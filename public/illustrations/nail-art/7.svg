@@ -1,0 +1,18 @@
+<svg width="1024" height="1024" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+<path d="M256,40 C150,40 110,180 120,300 C130,400 180,470 256,470 C332,470 382,400 392,300 C402,180 362,40 256,40 Z" fill="none" stroke="#00F0FF" stroke-width="14" stroke-opacity="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M140,150 C200,120 312,120 372,150" fill="none" stroke="#00F0FF" stroke-width="10" stroke-opacity="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="256" cy="295" r="12" fill="none" stroke="#FF2D95" stroke-width="8" stroke-opacity="0.35"/>
+<circle cx="256" cy="253" r="19" fill="none" stroke="#FF2D95" stroke-width="8" stroke-opacity="0.35"/>
+<circle cx="294" cy="278" r="19" fill="none" stroke="#FF2D95" stroke-width="8" stroke-opacity="0.35"/>
+<circle cx="279" cy="325" r="19" fill="none" stroke="#FF2D95" stroke-width="8" stroke-opacity="0.35"/>
+<circle cx="233" cy="325" r="19" fill="none" stroke="#FF2D95" stroke-width="8" stroke-opacity="0.35"/>
+<circle cx="218" cy="278" r="19" fill="none" stroke="#FF2D95" stroke-width="8" stroke-opacity="0.35"/>
+<path d="M256,40 C150,40 110,180 120,300 C130,400 180,470 256,470 C332,470 382,400 392,300 C402,180 362,40 256,40 Z" fill="none" stroke="#00F0FF" stroke-width="4" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M140,150 C200,120 312,120 372,150" fill="none" stroke="#00F0FF" stroke-width="2.5" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="256" cy="295" r="12" fill="none" stroke="#FF2D95" stroke-width="2.5" stroke-opacity="1"/>
+<circle cx="256" cy="253" r="19" fill="none" stroke="#FF2D95" stroke-width="2.5" stroke-opacity="1"/>
+<circle cx="294" cy="278" r="19" fill="none" stroke="#FF2D95" stroke-width="2.5" stroke-opacity="1"/>
+<circle cx="279" cy="325" r="19" fill="none" stroke="#FF2D95" stroke-width="2.5" stroke-opacity="1"/>
+<circle cx="233" cy="325" r="19" fill="none" stroke="#FF2D95" stroke-width="2.5" stroke-opacity="1"/>
+<circle cx="218" cy="278" r="19" fill="none" stroke="#FF2D95" stroke-width="2.5" stroke-opacity="1"/>
+</svg>

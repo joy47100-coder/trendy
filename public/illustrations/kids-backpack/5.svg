@@ -1,0 +1,18 @@
+<svg width="1024" height="1024" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+<g fill="#FFFFFF" stroke="#FFFFFF" stroke-width="26" stroke-linejoin="round" stroke-linecap="round">
+<path d="M226,50 L286,50 Q300,50 300,64 L300,80 L212,80 L212,64 Q212,50 226,50 Z"/>
+<path d="M110,60 L150,60 Q160,60 160,72 L160,150 L100,150 L100,72 Q100,60 110,60 Z"/>
+<path d="M362,60 L402,60 Q412,60 412,72 L412,150 L352,150 L352,72 Q352,60 362,60 Z"/>
+<path d="M140,90 L372,90 Q422,90 422,140 L422,180 Q422,230 372,230 L140,230 Q90,230 90,180 L90,140 Q90,90 140,90 Z"/>
+<path d="M140,140 L372,140 Q412,140 412,180 L412,420 Q412,460 372,460 L140,460 Q100,460 100,420 L100,180 Q100,140 140,140 Z"/>
+<path d="M170,290 L342,290 Q372,290 372,320 L372,410 Q372,440 342,440 L170,440 Q140,440 140,410 L140,320 Q140,290 170,290 Z"/>
+</g>
+<path d="M110,60 L150,60 Q160,60 160,72 L160,150 L100,150 L100,72 Q100,60 110,60 Z" fill="#E8A61C" stroke="#3B2314" stroke-width="7" stroke-linejoin="round"/>
+<path d="M362,60 L402,60 Q412,60 412,72 L412,150 L352,150 L352,72 Q352,60 362,60 Z" fill="#E8A61C" stroke="#3B2314" stroke-width="7" stroke-linejoin="round"/>
+<path d="M140,140 L372,140 Q412,140 412,180 L412,420 Q412,460 372,460 L140,460 Q100,460 100,420 L100,180 Q100,140 140,140 Z" fill="#2C7A73" stroke="#3B2314" stroke-width="7" stroke-linejoin="round"/>
+<path d="M170,290 L342,290 Q372,290 372,320 L372,410 Q372,440 342,440 L170,440 Q140,440 140,410 L140,320 Q140,290 170,290 Z" fill="#F2E3C4" stroke="#3B2314" stroke-width="7" stroke-linejoin="round"/>
+<path d="M180,300 Q256,318 332,300" fill="none" stroke="#3B2314" stroke-width="5" stroke-linecap="round"/>
+<path d="M140,90 L372,90 Q422,90 422,140 L422,180 Q422,230 372,230 L140,230 Q90,230 90,180 L90,140 Q90,90 140,90 Z" fill="#E8A61C" stroke="#3B2314" stroke-width="7" stroke-linejoin="round"/>
+<rect x="90" y="145" width="332" height="30" fill="#2C7A73" stroke="#3B2314" stroke-width="6"/>
+<path d="M226,50 L286,50 Q300,50 300,64 L300,80 L212,80 L212,64 Q212,50 226,50 Z" fill="#E8A61C" stroke="#3B2314" stroke-width="7" stroke-linejoin="round"/>
+</svg>

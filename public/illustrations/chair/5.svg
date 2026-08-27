@@ -1,0 +1,25 @@
+<svg width="1024" height="1024" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+<g fill="#FFFFFF" stroke="#FFFFFF" stroke-width="26" stroke-linejoin="round" stroke-linecap="round">
+<path d="M200,20 L312,20 Q336,20 336,44 L336,246 Q336,270 312,270 L200,270 Q176,270 176,246 L176,44 Q176,20 200,20 Z"/>
+<path d="M100,170 L176,170 L176,206 L100,206 Q70,206 70,188 Q70,170 100,170 Z"/>
+<path d="M412,170 L336,170 L336,206 L412,206 Q442,206 442,188 Q442,170 412,170 Z"/>
+<path d="M166,260 L194,260 L194,446 Q194,460 182,460 L178,460 Q166,460 166,446 Z"/>
+<path d="M346,260 L318,260 L318,446 Q318,460 330,460 L334,460 Q346,460 346,446 Z"/>
+<path d="M86,250 L426,250 Q442,250 442,266 L442,314 Q442,330 426,330 L86,330 Q70,330 70,314 L70,266 Q70,250 86,250 Z"/>
+<path d="M86,190 L122,190 L122,466 Q122,480 108,480 L100,480 Q86,480 86,466 Z"/>
+<path d="M426,190 L390,190 L390,466 Q390,480 404,480 L412,480 Q426,480 426,466 Z"/>
+</g>
+<path d="M200,20 L312,20 Q336,20 336,44 L336,246 Q336,270 312,270 L200,270 Q176,270 176,246 L176,44 Q176,20 200,20 Z" fill="#2C7A73" stroke="#3B2314" stroke-width="7" stroke-linejoin="round"/>
+<path d="M100,170 L176,170 L176,206 L100,206 Q70,206 70,188 Q70,170 100,170 Z" fill="#E8A61C" stroke="#3B2314" stroke-width="7" stroke-linejoin="round"/>
+<path d="M412,170 L336,170 L336,206 L412,206 Q442,206 442,188 Q442,170 412,170 Z" fill="#E8A61C" stroke="#3B2314" stroke-width="7" stroke-linejoin="round"/>
+<path d="M166,260 L194,260 L194,446 Q194,460 182,460 L178,460 Q166,460 166,446 Z" fill="#3B2314" stroke="#3B2314" stroke-width="7" stroke-linejoin="round"/>
+<path d="M346,260 L318,260 L318,446 Q318,460 330,460 L334,460 Q346,460 346,446 Z" fill="#3B2314" stroke="#3B2314" stroke-width="7" stroke-linejoin="round"/>
+<path d="M86,250 L426,250 Q442,250 442,266 L442,314 Q442,330 426,330 L86,330 Q70,330 70,314 L70,266 Q70,250 86,250 Z" fill="#E8A61C" stroke="#3B2314" stroke-width="7" stroke-linejoin="round"/>
+<path d="M86,190 L122,190 L122,466 Q122,480 108,480 L100,480 Q86,480 86,466 Z" fill="#3B2314" stroke="#3B2314" stroke-width="7" stroke-linejoin="round"/>
+<path d="M426,190 L390,190 L390,466 Q390,480 404,480 L412,480 Q426,480 426,466 Z" fill="#3B2314" stroke="#3B2314" stroke-width="7" stroke-linejoin="round"/>
+<g fill="none" stroke="#F2E3C4" stroke-width="6" stroke-linecap="round">
+<path d="M196,90 Q256,110 316,90"/>
+<path d="M196,150 Q256,170 316,150"/>
+<path d="M196,210 Q256,230 316,210"/>
+</g>
+</svg>

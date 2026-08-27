@@ -1,0 +1,13 @@
+<svg width="1024" height="1024" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+<g stroke="#3A2A22" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+<path d="M 128,42 C 100,40 78,62 78,90 L 82,428 C 82,456 106,476 134,476 L 378,474 C 406,474 428,452 428,424 L 424,86 C 424,58 400,38 372,40 Z" fill="#E8C4A0"/>
+<path d="M 112,88 C 110,74 122,64 138,64 L 366,64 C 382,64 394,76 394,90 L 396,422 C 396,438 384,450 368,450 L 140,450 C 124,450 112,438 112,424 Z" fill="#C97B84"/>
+<path d="M 220,64 L 220,80 C 220,92 234,98 254,98 C 274,98 288,92 288,80 L 288,64" fill="#E8C4A0" stroke-width="5"/>
+<path d="M 168,168 C 176,148 190,148 198,168 C 202,178 194,188 182,188 C 170,188 164,178 168,168 Z" fill="#FCEBCB" stroke-width="4"/>
+<path d="M 322,148 C 330,128 344,128 352,148 C 356,158 348,168 336,168 C 324,168 318,158 322,148 Z" fill="#FCEBCB" stroke-width="4"/>
+<path d="M 246,138 C 252,124 262,124 266,138 C 268,146 262,154 254,154 C 246,154 244,146 246,138 Z" fill="#FCEBCB" stroke-width="4"/>
+<path d="M 118,236 L 388,232" fill="none" stroke-width="4"/>
+<path d="M 118,254 C 164,300 188,240 254,270 C 320,300 350,238 388,250 L 388,436 L 118,436 Z" fill="#FCEBCB" stroke-width="4"/>
+<text x="256" y="200" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="56" font-weight="700" fill="#FCEBCB" stroke="none" text-anchor="middle">9:41</text>
+</g>
+</svg>

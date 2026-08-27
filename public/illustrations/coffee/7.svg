@@ -1,0 +1,16 @@
+<svg width="1024" height="1024" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+<ellipse cx="256" cy="150" rx="112" ry="24" fill="none" stroke="#FF2D95" stroke-width="14" stroke-opacity="0.35"/>
+<path d="M146,150 C138,250 148,355 182,395 L330,395 C364,355 374,250 366,150" fill="none" stroke="#FF2D95" stroke-width="14" stroke-opacity="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M366,185 C445,185 458,195 458,255 C458,315 445,330 362,318" fill="none" stroke="#FF2D95" stroke-width="14" stroke-opacity="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="256" cy="402" rx="175" ry="28" fill="none" stroke="#FF2D95" stroke-width="14" stroke-opacity="0.35"/>
+<path d="M190,140 C168,108 212,86 190,54 C176,36 208,24 196,6" fill="none" stroke="#CCFF00" stroke-width="9" stroke-opacity="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M256,140 C234,108 278,86 256,54 C242,36 274,24 256,8" fill="none" stroke="#CCFF00" stroke-width="9" stroke-opacity="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M322,140 C300,108 344,86 322,54 C308,36 340,24 328,8" fill="none" stroke="#CCFF00" stroke-width="9" stroke-opacity="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="256" cy="150" rx="112" ry="24" fill="none" stroke="#FF2D95" stroke-width="4" stroke-opacity="1"/>
+<path d="M146,150 C138,250 148,355 182,395 L330,395 C364,355 374,250 366,150" fill="none" stroke="#FF2D95" stroke-width="4" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M366,185 C445,185 458,195 458,255 C458,315 445,330 362,318" fill="none" stroke="#FF2D95" stroke-width="4" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="256" cy="402" rx="175" ry="28" fill="none" stroke="#FF2D95" stroke-width="4" stroke-opacity="1"/>
+<path d="M190,140 C168,108 212,86 190,54 C176,36 208,24 196,6" fill="none" stroke="#CCFF00" stroke-width="2.5" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M256,140 C234,108 278,86 256,54 C242,36 274,24 256,8" fill="none" stroke="#CCFF00" stroke-width="2.5" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M322,140 C300,108 344,86 322,54 C308,36 340,24 328,8" fill="none" stroke="#CCFF00" stroke-width="2.5" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,12 @@
+<svg width="1024" height="1024" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+<path d="M256,160 C210,90 100,105 100,195 C100,285 190,345 256,425 C322,345 412,285 412,195 C412,105 302,90 256,160 Z" fill="none" stroke="#FF2D95" stroke-width="14" stroke-opacity="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M45,228 C150,210 362,210 467,228 L430,246 L467,264 C362,282 150,282 45,264 L82,246 Z" fill="none" stroke="#00F0FF" stroke-width="10" stroke-opacity="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M95,118 L113,118 M104,109 L104,127 M98,112 L110,124 M110,112 L98,124" fill="none" stroke="#00F0FF" stroke-width="6" stroke-opacity="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M399,118 L417,118 M408,109 L408,127 M402,112 L414,124 M414,112 L402,124" fill="none" stroke="#00F0FF" stroke-width="6" stroke-opacity="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M247,445 L265,445 M256,436 L256,454 M250,439 L262,451 M262,439 L250,451" fill="none" stroke="#00F0FF" stroke-width="6" stroke-opacity="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M256,160 C210,90 100,105 100,195 C100,285 190,345 256,425 C322,345 412,285 412,195 C412,105 302,90 256,160 Z" fill="none" stroke="#FF2D95" stroke-width="4" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M45,228 C150,210 362,210 467,228 L430,246 L467,264 C362,282 150,282 45,264 L82,246 Z" fill="none" stroke="#00F0FF" stroke-width="2.5" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M95,118 L113,118 M104,109 L104,127 M98,112 L110,124 M110,112 L98,124" fill="none" stroke="#00F0FF" stroke-width="2" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M399,118 L417,118 M408,109 L408,127 M402,112 L414,124 M414,112 L402,124" fill="none" stroke="#00F0FF" stroke-width="2" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M247,445 L265,445 M256,436 L256,454 M250,439 L262,451 M262,439 L250,451" fill="none" stroke="#00F0FF" stroke-width="2" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

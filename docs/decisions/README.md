@@ -1,0 +1,5 @@
+- [ai-image-backend](ai-image-backend.md) — Read when changing or evaluating the AI image generation service used to produce illustrations.
+- [output-file-format](output-file-format.md) — Read when changing what file format(s) the app outputs for marketplace submission.
+- [illustration-style](illustration-style.md) — Read when changing the art style applied to generated illustrations.
+- [vote-data-store](vote-data-store.md) — Read when changing where generated candidates or vote results are persisted.
+- [keyword-sourcing](keyword-sourcing.md) — Read when changing how new catalog keywords are discovered or added.

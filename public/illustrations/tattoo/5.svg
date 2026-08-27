@@ -1,0 +1,24 @@
+<svg width="1024" height="1024" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+<g fill="#FFFFFF" stroke="#FFFFFF" stroke-width="26" stroke-linejoin="round" stroke-linecap="round">
+<path fill-rule="evenodd" d="M256,26 a44,44 0 1,0 0.1,0 Z M256,48 a22,22 0 1,1 -0.1,0 Z"/>
+<path d="M236,110 L276,110 L276,440 L236,440 Z"/>
+<path d="M160,170 L352,170 L352,204 L160,204 Z"/>
+<path d="M236,355 C190,365 150,390 140,430 C135,450 150,468 180,472 C205,475 225,465 236,445 Z"/>
+<path d="M276,355 C322,365 362,390 372,430 C377,450 362,468 332,472 C307,475 287,465 276,445 Z"/>
+<path d="M256,438 m-24,0 a24,24 0 1,0 48,0 a24,24 0 1,0 -48,0"/>
+<path d="M120,272 L392,272 L392,328 L120,328 Z"/>
+<path d="M60,268 L120,272 L120,328 L60,332 L90,300 Z"/>
+<path d="M452,268 L392,272 L392,328 L452,332 L422,300 Z"/>
+<path d="M300,10 L308,32 L330,38 L308,44 L300,66 L292,44 L270,38 L292,32 Z"/>
+</g>
+<path fill-rule="evenodd" d="M256,26 a44,44 0 1,0 0.1,0 Z M256,48 a22,22 0 1,1 -0.1,0 Z" fill="#2C7A73" stroke="#3B2314" stroke-width="7"/>
+<path d="M236,110 L276,110 L276,440 L236,440 Z" fill="#2C7A73" stroke="#3B2314" stroke-width="7" stroke-linejoin="round"/>
+<path d="M236,355 C190,365 150,390 140,430 C135,450 150,468 180,472 C205,475 225,465 236,445 Z" fill="#2C7A73" stroke="#3B2314" stroke-width="7" stroke-linejoin="round"/>
+<path d="M276,355 C322,365 362,390 372,430 C377,450 362,468 332,472 C307,475 287,465 276,445 Z" fill="#2C7A73" stroke="#3B2314" stroke-width="7" stroke-linejoin="round"/>
+<path d="M256,438 m-24,0 a24,24 0 1,0 48,0 a24,24 0 1,0 -48,0" fill="#2C7A73" stroke="#3B2314" stroke-width="7"/>
+<path d="M120,272 L392,272 L392,328 L120,328 Z" fill="#C4462A" stroke="#3B2314" stroke-width="7" stroke-linejoin="round"/>
+<path d="M60,268 L120,272 L120,328 L60,332 L90,300 Z" fill="#C4462A" stroke="#3B2314" stroke-width="7" stroke-linejoin="round"/>
+<path d="M452,268 L392,272 L392,328 L452,332 L422,300 Z" fill="#C4462A" stroke="#3B2314" stroke-width="7" stroke-linejoin="round"/>
+<path d="M160,170 L352,170 L352,204 L160,204 Z" fill="#2C7A73" stroke="#3B2314" stroke-width="7" stroke-linejoin="round"/>
+<path d="M300,10 L308,32 L330,38 L308,44 L300,66 L292,44 L270,38 L292,32 Z" fill="#E8A61C" stroke="#3B2314" stroke-width="7" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,9 @@
+<svg width="1024" height="1024" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+<rect x="90" y="60" width="150" height="110" rx="12" fill="#E8B4A0" fill-opacity="0.5" transform="rotate(-5 165 115)"/>
+<rect x="290" y="380" width="150" height="100" rx="12" fill="#C9A876" fill-opacity="0.5" transform="rotate(4 365 430)"/>
+<path d="M120,135 L110,150 L122,165 L112,180 L124,195 L114,210 L126,225 L116,240 L128,255 L118,270 L130,285 L120,300 L132,315 L122,330 L134,345 L124,360 L136,375 L150,388 L170,382 L190,390 L210,382 L230,390 L250,382 L270,390 L290,382 L310,390 L330,382 L350,390 L370,382 L390,388 L398,375 L388,360 L400,345 L390,330 L402,315 L392,300 L404,285 L394,270 L406,255 L396,240 L408,225 L398,210 L410,195 L400,180 L412,165 L402,150 L392,135 L370,142 L350,134 L330,142 L310,134 L290,142 L270,134 L250,142 L230,134 L210,142 L190,134 L170,142 L150,134 Z" fill="#B5652B"/>
+<rect x="160" y="185" width="200" height="150" fill="none" stroke="#4A7A6C" stroke-width="7"/>
+<path d="M256,205 L316,260 L256,315 L196,260 Z" fill="#E8B4A0"/>
+<path d="M150,160 L165,185 L155,210 L167,235 L157,260 L169,285 L159,310 L171,335 L161,360" fill="none" stroke="#5C3A22" stroke-width="2.5" stroke-dasharray="6 5"/>
+<path d="M372,160 L357,185 L367,210 L355,235 L365,260 L353,285 L363,310 L351,335 L361,360" fill="none" stroke="#5C3A22" stroke-width="2.5" stroke-dasharray="6 5"/>
+</svg>
