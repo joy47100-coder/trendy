@@ -1,7 +1,8 @@
 <svg width="1024" height="1024" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-  <path d="M 150 160 L 165 140 L 185 150 L 210 135 L 230 145 L 256 138 L 282 145 L 302 135 L 327 150 L 347 140 L 362 160 L 370 200 L 372 300 L 370 380 Q 370 420 340 440 L 172 440 Q 142 420 142 380 L 140 300 L 142 200 Z" fill="#E8D4B8" opacity="0.9"/>
-  <ellipse cx="256" cy="330" rx="72" ry="65" fill="#FF69B4"/>
-  <path d="M 190 140 Q 185 40 198 15 M 322 140 Q 327 40 314 15" fill="#4A5B8C" stroke="#2C3E50" stroke-width="5"/>
-  <ellipse cx="256" cy="400" rx="65" ry="28" fill="#E8C4A0"/>
-  <line x1="180" y1="380" x2="332" y2="385" stroke="#D4B896" stroke-width="1" opacity="0.6"/>
+  <path d="M 140 160 L 190 130 L 322 130 L 372 160 L 380 380 Q 380 420 350 440 L 162 440 Q 132 420 132 380 Z" fill="#228B22" stroke="#006400" stroke-width="2"/>
+  <rect x="215" y="285" width="82" height="95" fill="#32CD32" rx="3"/>
+  <circle cx="245" cy="330" r="10" fill="#006400"/>
+  <circle cx="267" cy="330" r="10" fill="#006400"/>
+  <path d="M 190 130 Q 185 30 200 10 M 322 130 Q 327 30 312 10" stroke="#006400" stroke-width="5" stroke-linecap="round"/>
+  <ellipse cx="256" cy="405" rx="72" ry="32" fill="#006400"/>
 </svg>

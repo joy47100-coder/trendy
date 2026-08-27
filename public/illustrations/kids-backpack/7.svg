@@ -1,7 +1,7 @@
 <svg width="1024" height="1024" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-  <defs><filter id="glow"><feGaussianBlur stdDeviation="2"/><feMerge><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
-  <path d="M 150 160 L 200 130 L 312 130 L 362 160 L 370 380 Q 370 420 340 440 L 172 440 Q 142 420 142 380 Z" stroke="#39FF14" stroke-width="3" fill="none" filter="url(#glow)"/>
-  <ellipse cx="256" cy="340" rx="75" ry="70" stroke="#FF10F0" stroke-width="2" fill="none" filter="url(#glow)"/>
-  <path d="M 190 130 Q 185 30 195 10 M 322 130 Q 327 30 317 10" stroke="#39FF14" stroke-width="3" fill="none" filter="url(#glow)"/>
-  <ellipse cx="256" cy="400" rx="70" ry="30" stroke="#00FFFF" stroke-width="2" fill="none" filter="url(#glow)"/>
+  <path d="M 140 160 L 190 130 L 322 130 L 372 160 L 380 380 Q 380 420 350 440 L 162 440 Q 132 420 132 380 Z" fill="#FFD700" stroke="#FFA500" stroke-width="2"/>
+  <rect x="210" y="290" width="92" height="90" fill="#FFEB3B" rx="4"/>
+  <circle cx="256" cy="335" r="25" fill="#FF8C00"/>
+  <path d="M 190 130 Q 185 35 200 12 M 322 130 Q 327 35 312 12" stroke="#FFA500" stroke-width="5" stroke-linecap="round"/>
+  <ellipse cx="256" cy="405" rx="70" ry="32" fill="#FFA500"/>
 </svg>
