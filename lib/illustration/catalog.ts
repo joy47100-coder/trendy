@@ -28,7 +28,7 @@ export const CATALOG: readonly CatalogKeyword[] = [
   { slug: "airpods-case", label: "에어팟 케이스", emoji: "🎧", styleIds: [2, 3, 4, 5, 6] },
   { slug: "tattoo", label: "타투 도안", emoji: "🖋️", styleIds: [3, 4, 5, 6, 7] },
   { slug: "kids-backpack", label: "유치원아이 가방", emoji: "🎒", styleIds: [4, 5, 6, 7, 8] },
-  { slug: "phone-wallpaper", label: "아이폰 잠금화면", emoji: "📱", styleIds: [1, 5, 6, 7, 8] },
+  { slug: "phone-wallpaper", label: "갖고 있으면 부자될 것 같은 그림", emoji: "📱", styleIds: [1, 5, 6, 7, 8] },
 ];
 
 /** 후보 하나를 가리키는 안정적인 식별자. 투표 집계 키로 쓴다. */

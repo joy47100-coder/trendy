@@ -1,0 +1,23 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="softShadow4">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="2"/>
+    </filter>
+  </defs>
+  <!-- 어깨끈 왼쪽 -->
+  <path d="M 180 80 Q 160 200 170 350" stroke="#D9722E" stroke-width="28" fill="none" stroke-linecap="round" filter="url(#softShadow4)"/>
+  <!-- 어깨끈 오른쪽 -->
+  <path d="M 332 80 Q 352 200 342 350" stroke="#D9722E" stroke-width="28" fill="none" stroke-linecap="round" filter="url(#softShadow4)"/>
+  <!-- 메인 몸체 (사다리꼴) -->
+  <path d="M 160 120 L 140 380 Q 140 400 160 410 L 352 410 Q 372 400 372 380 L 392 120 Q 392 100 372 100 L 180 100 Q 160 100 160 120 Z" fill="#FFB347" stroke="#8B4513" stroke-width="3" stroke-linejoin="round"/>
+  <!-- 하단 3D 부분 -->
+  <ellipse cx="256" cy="410" rx="110" ry="25" fill="#FF9E3F" stroke="#8B4513" stroke-width="2"/>
+  <!-- 큰 포켓 -->
+  <path d="M 200 180 L 190 340 Q 190 355 205 360 L 307 360 Q 322 355 322 340 L 312 180 Q 312 165 297 165 L 215 165 Q 200 165 200 180 Z" fill="#FFE4B5" stroke="#8B4513" stroke-width="3" stroke-linejoin="round"/>
+  <!-- 포켓 손잡이 -->
+  <path d="M 230 175 L 225 150 Q 223 135 235 133 L 277 133 Q 289 135 287 150 L 282 175" fill="none" stroke="#8B4513" stroke-width="3" stroke-linecap="round"/>
+  <!-- 포켓 지퍼 -->
+  <path d="M 200 220 L 310 220" stroke="#8B4513" stroke-width="2" stroke-dasharray="4,4"/>
+  <!-- 상단 고리 -->
+  <circle cx="256" cy="95" r="20" fill="none" stroke="#8B4513" stroke-width="3"/>
+</svg>

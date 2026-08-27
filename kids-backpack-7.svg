@@ -1,0 +1,30 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="neonGlow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <!-- 어깨끈 왼쪽 -->
+  <path d="M 185 70 Q 175 200 180 355" stroke="#00FF00" stroke-width="26" fill="none" stroke-linecap="round" filter="url(#neonGlow)"/>
+  <!-- 어깨끈 오른쪽 -->
+  <path d="M 327 70 Q 337 200 332 355" stroke="#FF00FF" stroke-width="26" fill="none" stroke-linecap="round" filter="url(#neonGlow)"/>
+  <!-- 메인 몸체 -->
+  <path d="M 160 115 L 145 375 L 367 375 L 352 115 Z" fill="none" stroke="#00FFFF" stroke-width="5" filter="url(#neonGlow)"/>
+  <!-- 메인 몸체 채우기 (반투명) -->
+  <path d="M 160 115 L 145 375 L 367 375 L 352 115 Z" fill="#00FFFF" opacity="0.15"/>
+  <!-- 하단 3D 부분 -->
+  <ellipse cx="256" cy="375" rx="112" ry="26" fill="none" stroke="#00FF00" stroke-width="4" filter="url(#neonGlow)"/>
+  <!-- 큰 포켓 -->
+  <path d="M 200 170 L 190 340 L 322 340 L 312 170 Z" fill="none" stroke="#FF00FF" stroke-width="5" filter="url(#neonGlow)"/>
+  <path d="M 200 170 L 190 340 L 322 340 L 312 170 Z" fill="#FF00FF" opacity="0.1"/>
+  <!-- 포켓 손잡이 -->
+  <path d="M 230 160 Q 256 130 282 160" fill="none" stroke="#00FFFF" stroke-width="4" filter="url(#neonGlow)"/>
+  <!-- 포켓 내부 가이드 -->
+  <line x1="200" y1="210" x2="312" y2="210" stroke="#00FF00" stroke-width="2" opacity="0.6" filter="url(#neonGlow)"/>
+  <!-- 상단 고리 -->
+  <circle cx="256" cy="95" r="22" fill="none" stroke="#FF00FF" stroke-width="4" filter="url(#neonGlow)"/>
+</svg>

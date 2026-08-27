@@ -1,0 +1,28 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- 어깨끈 왼쪽 (찢어진 종이) -->
+  <path d="M 180 75 L 172 165 L 178 255 L 170 345" stroke="#FFB347" stroke-width="28" fill="none" stroke-linecap="round"/>
+  <path d="M 195 80 L 187 170 L 193 260" stroke="#B0E0E6" stroke-width="18" fill="none" stroke-linecap="round" opacity="0.7"/>
+  <!-- 어깨끈 오른쪽 -->
+  <path d="M 332 75 L 340 165 L 334 255 L 342 345" stroke="#FFB6C1" stroke-width="28" fill="none" stroke-linecap="round"/>
+  <path d="M 317 80 L 325 170 L 319 260" stroke="#F0E68C" stroke-width="18" fill="none" stroke-linecap="round" opacity="0.7"/>
+  <!-- 메인 몸체 (여러 색상 레이어) -->
+  <path d="M 165 115 L 148 375 L 365 375 L 348 115 Z" fill="#FFB347" stroke="#000000" stroke-width="2" stroke-dasharray="3,2"/>
+  <!-- 몸체 우측 오버레이 -->
+  <path d="M 245 130 L 365 130 L 365 370 L 280 370 Z" fill="#B0E0E6" opacity="0.6"/>
+  <!-- 하단 3D 부분 (찢어진 느낌) -->
+  <ellipse cx="256" cy="375" rx="115" ry="24" fill="#FFB6C1"/>
+  <path d="M 145 375 Q 165 385 256 388 Q 347 385 367 375" fill="#F0E68C" opacity="0.7"/>
+  <!-- 큰 포켓 -->
+  <path d="M 200 175 L 185 335 L 325 335 L 310 175 Z" fill="#F0E68C" stroke="#000000" stroke-width="2" stroke-dasharray="3,2"/>
+  <!-- 포켓 상단 (다른 색) -->
+  <path d="M 200 175 L 185 220 L 325 220 L 310 175 Z" fill="#FFB6C1" opacity="0.8"/>
+  <!-- 포켓 손잡이 (찢어진 종이) -->
+  <path d="M 228 145 Q 245 120 283 145" fill="#B0E0E6" stroke="#000000" stroke-width="2"/>
+  <path d="M 235 150 Q 250 130 275 150" fill="#F0E68C" opacity="0.6"/>
+  <!-- 데코 원형 (콜라주 효과) -->
+  <circle cx="220" cy="260" r="20" fill="#FFB6C1" opacity="0.7" stroke="#000000" stroke-width="1" stroke-dasharray="2,2"/>
+  <circle cx="290" cy="290" r="16" fill="#B0E0E6" opacity="0.7" stroke="#000000" stroke-width="1" stroke-dasharray="2,2"/>
+  <!-- 상단 고리 -->
+  <circle cx="256" cy="95" r="24" fill="#F0E68C" stroke="#000000" stroke-width="2" stroke-dasharray="3,2"/>
+  <path d="M 248 95 A 8 8 0 1 1 264 95" fill="#FFB347" opacity="0.5"/>
+</svg>

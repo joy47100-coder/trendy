@@ -1,0 +1,22 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- 어깨끈 왼쪽 -->
+  <path d="M 185 75 L 175 355" stroke="#000000" stroke-width="32" fill="none" stroke-linecap="round"/>
+  <!-- 어깨끈 오른쪽 -->
+  <path d="M 327 75 L 337 355" stroke="#000000" stroke-width="32" fill="none" stroke-linecap="round"/>
+  <!-- 메인 몸체 -->
+  <path d="M 165 110 L 145 385 L 367 385 L 347 110 Z" fill="#F5E6D3" stroke="#000000" stroke-width="4"/>
+  <!-- 하단 3D 부분 -->
+  <ellipse cx="256" cy="385" rx="115" ry="28" fill="#D4AF37" stroke="#000000" stroke-width="3"/>
+  <!-- 큰 포켓 테두리 -->
+  <rect x="195" y="170" width="122" height="190" fill="#F5E6D3" stroke="#000000" stroke-width="4" rx="8"/>
+  <!-- 포켓 내부 분할선 -->
+  <line x1="256" y1="170" x2="256" y2="360" stroke="#000000" stroke-width="3" stroke-dasharray="6,4"/>
+  <!-- 포켓 손잡이 -->
+  <rect x="235" y="130" width="42" height="45" fill="none" stroke="#000000" stroke-width="4" rx="6"/>
+  <!-- 데코 원형 뱃지 (왼쪽) -->
+  <circle cx="210" cy="220" r="18" fill="#E74C3C" stroke="#000000" stroke-width="3"/>
+  <!-- 데코 원형 뱃지 (오른쪽) -->
+  <circle cx="302" cy="240" r="18" fill="#8B4513" stroke="#000000" stroke-width="3"/>
+  <!-- 상단 고리 -->
+  <rect x="240" y="85" width="32" height="35" fill="none" stroke="#000000" stroke-width="4" rx="4"/>
+</svg>
