@@ -1,10 +1,11 @@
 <svg width="1024" height="1024" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-  <rect x="120" y="50" width="272" height="520" rx="40" fill="#333"/>
-  <rect x="130" y="65" width="252" height="480" rx="35" fill="#000"/>
-  <rect x="225" y="50" width="62" height="30" rx="15" fill="#222"/>
-  <circle cx="370" cy="75" r="6" fill="#555"/>
-  <circle cx="256" cy="470" r="15" fill="#555"/>
-  <g opacity="0.7"><circle cx="200" cy="200" r="40" fill="#D4C156"/><circle cx="312" cy="200" r="40" fill="#C97A3A"/>
-<rect x="200" y="180" width="20" height="20" fill="#E74C3C"/><rect x="240" y="180" width="20" height="20" fill="#3498DB"/>
-<path d="M 180 200 L 332 280" stroke="#FF00FF" stroke-width="3" fill="none"/></g>
+  <rect x="40" y="40" width="432" height="432" fill="none" stroke="#8B7355" stroke-width="12"/>
+  <rect x="48" y="48" width="416" height="416" fill="none" stroke="#D2B48C" stroke-width="4"/>
+  <rect x="70" y="70" width="372" height="372" fill="#F0F8FF"/>
+  <circle cx="150" cy="150" r="35" fill="#3F00FF" opacity="0.8"/>
+  <rect x="280" y="120" width="60" height="60" fill="#FF1493"/>
+  <polygon points="200,320 240,250 280,320" fill="#3F00FF"/>
+  <circle cx="350" cy="310" r="30" fill="#FF1493" opacity="0.6"/>
+  <rect x="100" y="280" width="50" height="50" fill="none" stroke="#3F00FF" stroke-width="3"/>
+  <polygon points="256,140 290,200 222,200" fill="#FF1493" opacity="0.7"/>
 </svg>
